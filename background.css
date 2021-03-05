@@ -1,0 +1,21 @@
+/* Rectangle 5 */
+.js {
+position: absolute;
+width: 952px;
+height: 1044px;
+background: #C2C616;
+}
+
+/* JS text */
+.h1 {
+  position: absolute;
+  width: 642px;
+  height: 543px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 288px;
+  line-height: 337px;
+  color: #161515;
+  }
+ 
